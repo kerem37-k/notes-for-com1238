@@ -32,13 +32,14 @@
 :rage: 
 :notes: 
 
+
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
-- Command-A(select all)
-- Command-S (save the current document)
-- Command-T (open a new tab )
+- Command-A (select all items)
+- Command-T(open a new tab)
+- Command-C (copy)
 
 Shortcuts I would like to start using: 
-- Ctrl-A (select all)
-- Control-Commond-Q ( Immediately lock your screen.)
-- Contorl-Command-F (Use the app in full screen, if supported by the app.)
+- Command-S (Save the current document)
+- Shift-Command-N(to create a folder)
+- Command-N (Open a new Finder window)`
