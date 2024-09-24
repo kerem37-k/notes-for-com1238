@@ -32,4 +32,13 @@
 :rage: 
 :notes: 
 
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Command-A(select all)
+- Command-S (save the current document)
+- Command-T (open a new tab )
 
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Control-Commond-Q ( Immediately lock your screen.)
+- Contorl-Command-F (Use the app in full screen, if supported by the app.)
