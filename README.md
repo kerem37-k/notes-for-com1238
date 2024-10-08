@@ -43,3 +43,5 @@ Shortcuts I would like to start using:
 - Command-S (Save the current document)
 - Shift-Command-N(to create a folder)
 - Command-N (Open a new Finder window)`
+
+Link: [CLI commands](docs/cli.md) 
