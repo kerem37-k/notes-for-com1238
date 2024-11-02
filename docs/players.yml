@@ -1,0 +1,11 @@
+# Any text intended for humans, YAML will ignore it
+someKey: someValue # another comment
+-name: James Brown sports: Basketball team:
+name: Raptors city: Toronto
+Position: Forward
+Age: '38 
+-name: Lionel Messi sports: Soccer team:
+name: Inter Miami city: Miami
+Position: Forward
+Age:
+'36
